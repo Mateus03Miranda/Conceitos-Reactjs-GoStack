@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://ik.imagekit.io/d4plefqyqv/RS_OEcD0tpViG.png">
-    Conceito ReactJS
+    Conceitos ReactJS
 </h1>
 
 ## 📝️ Sobre
@@ -37,7 +37,7 @@ cd Conceitos-Reactjs-GoStack
 
 yarn 
 
-#Execute o comando "yarn dev" para iniciar a aplicação
+#Execute o comando "yarn start" para iniciar a aplicação
 
 yarn start
 
